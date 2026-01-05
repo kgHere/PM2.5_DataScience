@@ -49,10 +49,3 @@ PM2.5 values were also mapped to air quality categories for classification-based
 - Scikit-learn  
 - Matplotlib  
 
----
-
-## 🚀 How to Run
-1. Clone the repository  
-```bash
-git clone <repository-url>
-cd pm25-air-quality-prediction
